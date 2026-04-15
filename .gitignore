@@ -5,7 +5,6 @@ __pycache__/
 .venv/
 av_env/
 models/
-outputs/
 .env
 .ipynb_checkpoints/
 *.log

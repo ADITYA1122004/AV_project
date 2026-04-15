@@ -1,0 +1,15 @@
+streamlit
+opencv-python
+mediapipe==0.10.9
+pyaudio
+librosa
+numpy
+torch
+torchvision
+torchaudio
+faster-whisper
+transformers
+soundfile
+scipy
+sentencepiece
+sacremoses
